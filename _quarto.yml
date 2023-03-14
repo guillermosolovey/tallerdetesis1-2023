@@ -4,8 +4,8 @@ project:
     - "*.qmd"
 
 website:
-  title: "eb2023"
-  site-url: "https://sta-112-f22.github.io/website"
+  title: "taller de tesis 1"
+  site-url: "https://tallerdetesis1-2023.netlify.app/"
   navbar:
     pinned: true
     background: "#F0DC14"

@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sta-112-f22.github.io/website/index.html</loc>
-    <lastmod>2023-03-14T00:41:35.791Z</lastmod>
+    <lastmod>2023-03-14T00:52:00.535Z</lastmod>
   </url>
   <url>
     <loc>https://sta-112-f22.github.io/website/cronograma.html</loc>
-    <lastmod>2023-03-14T00:41:43.629Z</lastmod>
+    <lastmod>2023-03-14T00:51:29.947Z</lastmod>
   </url>
   <url>
     <loc>https://sta-112-f22.github.io/website/programa.html</loc>
     <lastmod>2023-02-10T18:12:45.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tallerdetesis1-2023.netlify.app/index.html</loc>
+    <lastmod>2023-03-14T02:04:43.485Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tallerdetesis1-2023.netlify.app/cronograma.html</loc>
+    <lastmod>2023-03-14T02:01:49.441Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tallerdetesis1-2023.netlify.app/programa.html</loc>
+    <lastmod>2023-03-14T02:04:53.883Z</lastmod>
   </url>
 </urlset>

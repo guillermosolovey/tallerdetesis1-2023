@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Estimación Bayesiana",
+    "title": "Taller de Tesis 1",
     "section": "",
-    "text": "Materia electiva de la Licenciatura en Ciencia de Datos.\n\n\n\n\n\n\n  \n  \n  \n    Docente:\nGuillermo Solovey, Instituto de Cálculo.\n    Inscripción:\ndel 22/02/23 al 05/03/23 en el SIU. Código: LCDA210018.\n    Clases:\nA partir del 20 de Marzo. Lunes y Miércoles de 10 a 12hs (a confirmar)\n    Carga horaria:\n4hs semanales.\n    Correlativa:\nIntroducción a la Estadística y la Ciencia de Datos.\n  \n  \n  \n\n\n\n\n\n\n Instituto de Cálculo\n\n\n Facultad de Ciencias Exactas y Naturales, UBA"
+    "text": "Docentes: Guillermo Solovey, Gustavo Juantorena y Jazmín Vidal\nHorario: Martes 18 a 21hs.\nAula: A confirmar\n\n\n\n Exactas-UBA\n\n\n Maestría en Explotación de Datos y Descubrimiento del Conocimiento"
   },
   {
     "objectID": "cronograma.html",
     "href": "cronograma.html",
     "title": "Cronograma",
     "section": "",
-    "text": "Nota: Este cronograma es muy preliminar. Se va a actualizar en Marzo.\n\n\n\n\n\n\n\n\n\n  \n  \n    \n      semana\n      fecha\n      tema\n      lectura\n      slides\n      notas\n      tp\n    \n  \n  \n    1\n\nIntroducción a estadística bayesiana\nBayes Rules! c.1-2\n\n\n\n    1\n\nLabo 01\n\n\n\n\n    2\n\nEl modelo Beta-Binomial\nBayes Rules! c.3\n\n\n\n    2\n\nTP1: Regla de Bayes y ejercicios de simulación\n\n\n\n\n    3\n\nBalance y secuencialidad. Familias conjugadas. Gamma-Poisson, Normal-Normal\nBayes Rules! c.4-5\n\n\n\n    3\n\nTP2: Beta-Binomial\n\n\n\n\n    4\n\nSimulación de la Posterior\nBayes Rules! c.6-7\n\n\n\n    4\n\nTP4\n\n\n\n\n    5\n\nInferencia Posterior y Predicción\nBayes Rules! c.8\n\n\n\n    5\n\nTP4\n\n\n\n\n    6\n\n\n\n\n\n\n    6\n\n\n\n\n\n\n    7\n\nRegresión lineal simple. Regularización LASSO y RIDGE.\nBayes Rules! c. 9, 10\n\n\n\n    7\n\nTP5\n\n\n\n\n    8\n\nRegresión lineal. Variables Categóricas. Evaluación de la calidad del ajuste.\nBayes Rules! c. 11.\n\n\n\n    8\n\nTP6\n\n\n\n\n    9\n\nRegresión de Poisson y Binomial Negativa\nBayes Rules! c.12\n\n\n\n    9\n\nTP7\n\n\n\n\n    10\n\nRegresión logística. Naive Bayes\nBayes Rules! c.13\n\n\n\n    10\n\nTP8\n\n\n\n\n    11\n\n\n\n\n\n\n    11\n\n\n\n\n\n\n    12\n\nModelos jerárquicos sin predictores\nBayes Rules! c.15-16\n\n\n\n    12\n\nTP9\n\n\n\n\n    13\n\nModelos jerárquicos con predictores\nBayes Rules! c.17\n\n\n\n    13\n\nTP10\n\n\n\n\n    14\n\nModelos jerárquicos de presicción y clasificación (no-normales)\nBayes Rules! c.18\n\n\n\n    14\n\nTP11\n\n\n\n\n    15\n\n\n\n\n\n\n    15\n\n\n\n\n\n\n    16\n\nPresentación final\n\n\n\n\n    16\n\nPresentación final"
+    "text": "fecha\n      material\n      grupo\n      tema\n      deadline\n    \n  \n  \n    21 Mar\nIntroducción a la materia\nG1+G2+G3+G4\n\n\n    28 Mar\nclase 1\nG1\nDataset, pregunta y objetivo\n11 Apr\n    4 Apr\nclase 1\nG2\nDataset, pregunta y objetivo\n18 Apr\n    11 Apr\nclase 1\nG3\nDataset, pregunta y objetivo\n25 Apr\n    18 Apr\nclase 1\nG4\nDataset, pregunta y objetivo\n2 May\n    25 Apr\nclase 2\nG1\nPreprocesamiento y EDA\n9 May\n    2 May\nclase 2\nG2\nPreprocesamiento y EDA\n16 May\n    9 May\nclase 2\nG3\nPreprocesamiento y EDA\n23 May\n    16 May\nclase 2\nG4\nPreprocesamiento y EDA\n30 May\n    23 May\nclase 3\nG1\nIntroducción y resultados preliminares\n6 Jun\n    30 May\nclase 3\nG2\nIntroducción y resultados preliminares\n13 Jun\n    6 Jun\nclase 3\nG3\nIntroducción y resultados preliminares\n20 Jun\n    13 Jun\nclase 3\nG4\nIntroducción y resultados preliminares\n27 Jun\n    20 Jun\nFeriado\n\n\n\n    27 Jun\nclase 4\nG1+G2\nConclusiones\n11 Jul\n    4 Jul\nclase 4\nG3+G4\nConclusiones\n18 Jul"
   },
   {
     "objectID": "index.html#course-materials",
@@ -25,7 +25,7 @@
     "href": "programa.html",
     "title": "Programa",
     "section": "",
-    "text": "Distinguir entre el enfoque estadístico frecuentista y bayesiano.\nConstruir modelos bayesianos para situaciones simples.\nUsar fluidamente R y Stan para implementar modelos estadísticos bayesianos.\nHacer predicciones e interpretar los resultados de un modelo bayesiano."
+    "text": "Los vamos a dividir en 4 grupos. Cada grupo va a tener un total de 5 clases a lo largo del cuatrimestre. La primera clase, el Martes 21 de Marzo, van a venir todos. Después se dividen y van a venir de acuerdo al cronograma publicado."
   },
   {
     "objectID": "programa.html#bibliografía",
@@ -75,5 +75,26 @@
     "title": "Estimación Bayesiana",
     "section": "Bibliografía",
     "text": "Bibliografía\n\n?var:course.text\n\n\n\n Instituto de Cálculo\n\n\n Facultad de Ciencias Exactas y Naturales, UBA"
+  },
+  {
+    "objectID": "programa.html#régimen-de-aprobación",
+    "href": "programa.html#régimen-de-aprobación",
+    "title": "Programa",
+    "section": "Régimen de aprobación",
+    "text": "Régimen de aprobación\nLa materia tiene 4 entregas. La nota final de la materia se compone así - 1a entrega: 20% - 2a entrega: 20% - 3a entrega: 20% - 4a entrega: 40%"
+  },
+  {
+    "objectID": "programa.html#entregas",
+    "href": "programa.html#entregas",
+    "title": "Programa",
+    "section": "Entregas",
+    "text": "Entregas\nCada entrega tiene una fecha límite que es dos semanas después de la clase (ver cronograma). No aceptamos entregas sin aviso después de ese día. Antes de la fecha límite se puede pedir una prórroga de 1 semana, pero eso sólo se puede hacer 1 vez en todo el curso. Las entregas: sin código y cómo enviar entregas: G1-E1-APELLIDO-NOMBRE.PDF"
+  },
+  {
+    "objectID": "programa.html#trabajo-final",
+    "href": "programa.html#trabajo-final",
+    "title": "Programa",
+    "section": "Trabajo final",
+    "text": "Trabajo final\nLa última entrega consiste de un trabajo final…"
   }
 ]
