@@ -8,7 +8,7 @@ website:
   site-url: "https://tallerdetesis1-2023.netlify.app/"
   navbar:
     pinned: true
-    background: "#F0DC14"
+    background: "#1776de"
     right:
       - href: index.qmd
         text: "{{< fa home >}} Home"
