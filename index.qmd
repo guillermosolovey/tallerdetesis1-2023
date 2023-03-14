@@ -5,9 +5,10 @@ toc: false
 sidebar: false
 ---
 
-- Docentes:	Guillermo Solovey, Gustavo Juantorena y Jazmín Vidal
+- Docentes:	Guillermo Solovey, Gustavo Juantorena y Jazmín Vidal Dominguez.
 - Horario:	Martes 18 a 21hs.
-- Aula: 	A confirmar
+- Clases: desde el 21 de Marzo al 4 de Julio.
+- Aula: 	A confirmar.
 
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
