@@ -1,0 +1,31 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+
+website:
+  title: "eb2023"
+  site-url: "https://sta-112-f22.github.io/website"
+  navbar:
+    pinned: true
+    background: "#F0DC14"
+    right:
+      - href: index.qmd
+        text: "{{< fa home >}} Home"
+      - href: cronograma.qmd
+        text: "{{< fa calendar >}} Cronograma"
+      - href: programa.qmd
+        text: "{{< fa code >}} Programa"
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute:
+  freeze: auto
+

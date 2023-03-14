@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Estimación Bayesiana",
+    "section": "",
+    "text": "Materia electiva de la Licenciatura en Ciencia de Datos.\n\n\n\n\n\n\n  \n  \n  \n    Docente:\nGuillermo Solovey, Instituto de Cálculo.\n    Inscripción:\ndel 22/02/23 al 05/03/23 en el SIU. Código: LCDA210018.\n    Clases:\nA partir del 20 de Marzo. Lunes y Miércoles de 10 a 12hs (a confirmar)\n    Carga horaria:\n4hs semanales.\n    Correlativa:\nIntroducción a la Estadística y la Ciencia de Datos.\n  \n  \n  \n\n\n\n\n\n\n Instituto de Cálculo\n\n\n Facultad de Ciencias Exactas y Naturales, UBA"
+  },
+  {
+    "objectID": "cronograma.html",
+    "href": "cronograma.html",
+    "title": "Cronograma",
+    "section": "",
+    "text": "Nota: Este cronograma es muy preliminar. Se va a actualizar en Marzo.\n\n\n\n\n\n\n\n\n\n  \n  \n    \n      semana\n      fecha\n      tema\n      lectura\n      slides\n      notas\n      tp\n    \n  \n  \n    1\n\nIntroducción a estadística bayesiana\nBayes Rules! c.1-2\n\n\n\n    1\n\nLabo 01\n\n\n\n\n    2\n\nEl modelo Beta-Binomial\nBayes Rules! c.3\n\n\n\n    2\n\nTP1: Regla de Bayes y ejercicios de simulación\n\n\n\n\n    3\n\nBalance y secuencialidad. Familias conjugadas. Gamma-Poisson, Normal-Normal\nBayes Rules! c.4-5\n\n\n\n    3\n\nTP2: Beta-Binomial\n\n\n\n\n    4\n\nSimulación de la Posterior\nBayes Rules! c.6-7\n\n\n\n    4\n\nTP4\n\n\n\n\n    5\n\nInferencia Posterior y Predicción\nBayes Rules! c.8\n\n\n\n    5\n\nTP4\n\n\n\n\n    6\n\n\n\n\n\n\n    6\n\n\n\n\n\n\n    7\n\nRegresión lineal simple. Regularización LASSO y RIDGE.\nBayes Rules! c. 9, 10\n\n\n\n    7\n\nTP5\n\n\n\n\n    8\n\nRegresión lineal. Variables Categóricas. Evaluación de la calidad del ajuste.\nBayes Rules! c. 11.\n\n\n\n    8\n\nTP6\n\n\n\n\n    9\n\nRegresión de Poisson y Binomial Negativa\nBayes Rules! c.12\n\n\n\n    9\n\nTP7\n\n\n\n\n    10\n\nRegresión logística. Naive Bayes\nBayes Rules! c.13\n\n\n\n    10\n\nTP8\n\n\n\n\n    11\n\n\n\n\n\n\n    11\n\n\n\n\n\n\n    12\n\nModelos jerárquicos sin predictores\nBayes Rules! c.15-16\n\n\n\n    12\n\nTP9\n\n\n\n\n    13\n\nModelos jerárquicos con predictores\nBayes Rules! c.17\n\n\n\n    13\n\nTP10\n\n\n\n\n    14\n\nModelos jerárquicos de presicción y clasificación (no-normales)\nBayes Rules! c.18\n\n\n\n    14\n\nTP11\n\n\n\n\n    15\n\n\n\n\n\n\n    15\n\n\n\n\n\n\n    16\n\nPresentación final\n\n\n\n\n    16\n\nPresentación final"
+  },
+  {
+    "objectID": "index.html#course-materials",
+    "href": "index.html#course-materials",
+    "title": "Estimación Bayesiana",
+    "section": "Course materials",
+    "text": "Course materials\n\nBooks\nWe’ll be working through two textbooks throughout the semester:\n\nRichard McElreath, Statistical Rethinking: A Bayesian Course with Examples in R and Stan\n\n\n\n\nAlicia A. Johnson, Miles Q. Ott, and Mine Dogucu, Bayes Rules! An Introduction to Applied Bayesian Modeling\n\n\n\nBayes Rules! is available online for free. The book for Statistical Rethinking is not free ($70 on Amazon), but Richard McElreath has provided 20 video lectures with accompanying slides and homework assignments and answer keys.\nWe’ll read all of Bayes Rules!, all of Statistical Rethinking, watch all of McElreath’s Statistical Rethinking lectures, and complete a bunch of the assignments and homework questions from both books.\n\nDocente\n\nDocente: Dr. Guillermo Solovey\nOficina: 2605, Edificio Cero+Infinito, Exactas-UBA\n\n\n\nFechas\n\nInscripción: Primer cuatrimestre 2023. Inicio de clases: semana del 20 de Marzo.\nDictado: Primer cuatrimestre 2023. Inicio de clases: semana del 20 de Marzo.\nHorarios: 4 horas semanales en días y horario a definir.\n\n\n\nCorrelativas\n\nIntroducción a la Estadística y la Ciencia de Datos.\n\n\n\nCódigo de inscripción en el SIU\n\nGrado: a definir\nDoctorado: a definir\n\n\n\nBibliografía\n\nVamos a usar principalmente Bayes Rules! y Statistical Rethinking.\n\n\n\n Instituto de Cálculo\n\n\n Facultad de Ciencias Exactas y Naturales, UBA"
+  },
+  {
+    "objectID": "programa.html",
+    "href": "programa.html",
+    "title": "Programa",
+    "section": "",
+    "text": "Distinguir entre el enfoque estadístico frecuentista y bayesiano.\nConstruir modelos bayesianos para situaciones simples.\nUsar fluidamente R y Stan para implementar modelos estadísticos bayesianos.\nHacer predicciones e interpretar los resultados de un modelo bayesiano."
+  },
+  {
+    "objectID": "programa.html#bibliografía",
+    "href": "programa.html#bibliografía",
+    "title": "Programa",
+    "section": "Bibliografía",
+    "text": "Bibliografía\nprincipal:\n\nAlicia A. Johnson, Miles Q. Ott, and Mine Dogucu, Bayes Rules! An Introduction to Applied Bayesian Modeling\nRichard McElreath, Statistical Rethinking: A Bayesian Course with Examples in R and Stan, 2nd edition.\n\n\ncomplementaria:\n\nBen Lambert, A Student’s Guide to Bayesian Statistics.\nOsvaldo A. Martin, Ravin Kumar y Junpeng Lao, Bayesian Modeling and Computation in Python.\nPeter D. Hoff, A first course in Bayesian statistical methods.\nCameron Davidson-Pilon, Bayesian methods for hackers: probabilistic programming and Bayesian inference.\nDavid Robinson, Introduction to empirical bayes: examples from baseball statistics.\nAndrew Gelman, Jennifer Hill, and Aki Vehtari, Regression and other stories."
+  },
+  {
+    "objectID": "programa.html#programa",
+    "href": "programa.html#programa",
+    "title": "Programa",
+    "section": "Programa",
+    "text": "Programa\n\nUnidad 1\nFundamentos bayesianos: Aprender cómo pensar bayesianamente y cómo crear modelos bayesianos básicos.\nIntroducción a la estadística bayesiana. Diferencias entre estadística bayesiana y frecuentista. Pensar bayesianamente. Modelo beta-binomial. Equilibrio entre el prior y los datos. Análisis bayesiano secuencial. Familias conjugadas.\n\n\nUnidad 2\nSimulación y análisis de la distribución posterior: Herramientas computacionales para simular la distribución posterior en modelos bayesianos complejos.\nAnalizar modelos simulados y exactos para hacer inferencia y sacar conclusiones. Aproximar la distribución posterior. Método de grilla, Metrópolis-Hastings y Markov Chain Monte Carlo (MCMC). Implementación y diagnóstico en R. Estimación de parámetros Testeo de hipótesis. Predicción.\n\n\nUnidad 3\nModelos bayesianos de regresión y clasificación: Extender los modelos bayesianos a casos en los que la variable respuesta es contínua (regresión) y categórica (clasificación).\nRegresión Normal. Regresión múltiple. Variables de control y confusoras. Evaluación, diagnóstico y comparación de modelos de regresión. Regresión de Poisson. Naive-Bayes. Regresión logística.\n\n\nUnidad 4\nModelos bayesianos jerárquicos: Modelos bayesianos para datos multi-nivel, como datos longitudinales y de medidas repetidas.\nModelo complete-pool y no-pool. Modelos de pooling parcial. Modelo jerárquico normal sin predictores. Modelos de regresión y clasificación jerárquicos."
+  },
+  {
+    "objectID": "index.html#docente",
+    "href": "index.html#docente",
+    "title": "Estimación Bayesiana",
+    "section": "Docente",
+    "text": "Docente\n\nDocente: Dr. Guillermo Solovey\nOficina: 2605, Edificio Cero+Infinito, Exactas-UBA"
+  },
+  {
+    "objectID": "index.html#fechas",
+    "href": "index.html#fechas",
+    "title": "Estimación Bayesiana",
+    "section": "Fechas",
+    "text": "Fechas\n\nInscripción: desde el 22 de Febrero al 5 de Marzo de 2023.\nDictado: Primer cuatrimestre 2023. Inicio de clases: semana del 20 de Marzo.\nHorarios: 4 horas semanales en días y horario a definir."
+  },
+  {
+    "objectID": "index.html#correlativas",
+    "href": "index.html#correlativas",
+    "title": "Estimación Bayesiana",
+    "section": "Correlativas",
+    "text": "Correlativas\n\nIntroducción a la Estadística y la Ciencia de Datos.\n\n\n\n Instituto de Cálculo\n\n\n Facultad de Ciencias Exactas y Naturales, UBA"
+  },
+  {
+    "objectID": "index.html#código-de-inscripción-en-el-siu",
+    "href": "index.html#código-de-inscripción-en-el-siu",
+    "title": "Estimación Bayesiana",
+    "section": "Código de inscripción en el SIU",
+    "text": "Código de inscripción en el SIU\n\nGrado: a definir\nDoctorado: a definir"
+  },
+  {
+    "objectID": "index.html#bibliografía",
+    "href": "index.html#bibliografía",
+    "title": "Estimación Bayesiana",
+    "section": "Bibliografía",
+    "text": "Bibliografía\n\n?var:course.text\n\n\n\n Instituto de Cálculo\n\n\n Facultad de Ciencias Exactas y Naturales, UBA"
+  }
+]
