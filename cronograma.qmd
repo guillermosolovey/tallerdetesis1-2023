@@ -1,6 +1,7 @@
 ---
 title: "Cronograma"
 toc: false
+editor: source
 ---
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE}

@@ -1,21 +1,7 @@
 ---
 title: "Programa"
 toc: false
+editor: source
 ---
 
-## Cronograma
-Los vamos a dividir en 4 grupos. Cada grupo va a tener un total de 5 clases a lo largo del cuatrimestre. La primera clase, el Martes 21 de Marzo, van a venir todos. Después se dividen y van a venir de acuerdo al cronograma publicado.
-
-## Régimen de aprobación
-La materia tiene 4 entregas. La nota final de la materia se compone así
-- 1a entrega: 20%
-- 2a entrega: 20%
-- 3a entrega: 20%
-- 4a entrega: 40%
-
-## Entregas
-Cada entrega tiene una fecha límite que es dos semanas después de la clase (ver cronograma). No aceptamos entregas sin aviso después de ese día. Antes de la fecha límite se puede pedir una prórroga de 1 semana, pero eso sólo se puede hacer 1 vez en todo el curso. 
-Las entregas: sin código y cómo enviar entregas: G1-E1-APELLIDO-NOMBRE.PDF
-
-## Trabajo final
-La última entrega consiste de un trabajo final… 
+próximamente... 
