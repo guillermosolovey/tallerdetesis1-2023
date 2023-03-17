@@ -18,7 +18,7 @@ d %>%
   mutate(
     fecha = as.Date(fecha),
     deadline = as.Date(deadline),
-    tema = ifelse(is.na(tema), "", tema),
+    consigna = ifelse(is.na(consigna), "", consigna),
     grupo = ifelse(is.na(grupo), "", grupo),
     material = ifelse(is.na(material), "", material)) %>%
   gt() %>%
