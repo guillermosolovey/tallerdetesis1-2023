@@ -17,9 +17,9 @@ website:
       - href: pautas.qmd
         text: "{{< fa code >}} Pautas"
       - href: datasets.qmd
-        text: "{{< fa code >}} Datasets"
+        text: "{{< fa database >}} Datasets"
       - href: consignas.qmd
-        text: "{{< fa code >}} Consignas"
+        text: "{{< fa question >}} Consignas"
         
 
 format:
