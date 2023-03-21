@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>taller de tesis 1 - Taller de Tesis 1</title>
+<title>taller de tesis 1 - Datasets</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -64,7 +64,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">
+    <a class="nav-link" href="./index.html">
  <span class="menu-text"><i class="fa-solid fa-home" aria-label="home"></i> Home</span></a>
   </li>  
   <li class="nav-item">
@@ -93,8 +93,12 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text"><i class="fa-solid fa-code" aria-label="code"></i> Pautas</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./datasets.html">
+    <a class="nav-link active" href="./datasets.html" aria-current="page">
  <span class="menu-text"><i class="fa-solid fa-code" aria-label="code"></i> Datasets</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./consignas.html">
+ <span class="menu-text"><i class="fa-solid fa-code" aria-label="code"></i> Consignas</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -106,14 +110,24 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#sugerencias-para-elegir-el-dataset" id="toc-sugerencias-para-elegir-el-dataset" class="nav-link active" data-scroll-target="#sugerencias-para-elegir-el-dataset">Sugerencias para elegir el dataset</a></li>
+  <li><a href="#inspiración" id="toc-inspiración" class="nav-link" data-scroll-target="#inspiración">Inspiración</a></li>
+  <li><a href="#dónde-encontrar-papers" id="toc-dónde-encontrar-papers" class="nav-link" data-scroll-target="#dónde-encontrar-papers">¿Dónde encontrar papers?</a></li>
+  <li><a href="#ejemplos-de-datasets" id="toc-ejemplos-de-datasets" class="nav-link" data-scroll-target="#ejemplos-de-datasets">Ejemplos de datasets</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Taller de Tesis 1</h1>
-<p class="subtitle lead">Maestría en Explotación de Datos y Descubrimiento del Conocimiento</p>
+<h1 class="title">Datasets</h1>
 </div>
 
 
@@ -128,18 +142,42 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="sugerencias-para-elegir-el-dataset" class="level2">
+<h2 class="anchored" data-anchor-id="sugerencias-para-elegir-el-dataset">Sugerencias para elegir el dataset</h2>
+<p>Como sugerencia general, elijan un dataset sobre un tema que les interese o sobre el que están trabajando actualmente. Como algunos conjuntos de datos se han usado en exceso para estos objetivos particulares, tenga en cuenta que los siguientes están prohibidos en este trabajo (se pueden agregar más a esta lista, así que asegúrense de revisarla regularmente):</p>
 <ul>
-<li>Docentes: Guillermo Solovey, Gustavo Juantorena y Jazmín Vidal Dominguez.</li>
-<li>Horario: Martes 19 a 22hs.</li>
-<li>Clases: desde el 21 de Marzo al 4 de Julio.</li>
-<li>Aula: 1304.</li>
+<li>titanic</li>
+<li>mtcars</li>
+<li>iris</li>
+<li>MNIST</li>
+<li>CIFAR-10</li>
 </ul>
-<hr>
-<section id="exactas-uba" class="level6">
-<h6 class="anchored" data-anchor-id="exactas-uba"><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:steelblue;overflow:visible;position:relative;"><path d="M243.4 2.6l-224 96c-14 6-21.8 21-18.7 35.8S16.8 160 32 160v8c0 13.3 10.7 24 24 24H456c13.3 0 24-10.7 24-24v-8c15.2 0 28.3-10.7 31.3-25.6s-4.8-29.9-18.7-35.8l-224-96c-8.1-3.4-17.2-3.4-25.2 0zM128 224H64V420.3c-.6 .3-1.2 .7-1.8 1.1l-48 32c-11.7 7.8-17 22.4-12.9 35.9S17.9 512 32 512H480c14.1 0 26.5-9.2 30.6-22.7s-1.1-28.1-12.9-35.9l-48-32c-.6-.4-1.2-.7-1.8-1.1V224H384V416H344V224H280V416H232V224H168V416H128V224zm128-96c-17.7 0-32-14.3-32-32s14.3-32 32-32s32 14.3 32 32s-14.3 32-32 32z"></path></svg> <a href="https://exactas.uba.ar">Exactas-UBA</a></h6>
+<p>Lo mejor es usar un conjunto de datos para el cual no haya un análisis listo en Internet, pero si eligen un conjunto de datos que ya se usó en algún estudio de caso disponible online, proporcionen el enlace a estudios anteriores e informen cómo sus análisis difieren de esos (por ejemplo, si alguien ha realizado un análisis no bayesiano y ustedes realizan el análisis bayesiano completo).</p>
+<p>Según el modelo y la estructura de los datos, un buen dataset tendría más de 100 observaciones pero menos de 1 millón. Si conocen un dataset interesante pero muy pesado, pueden usar un subconjunto más pequeño de los datos para mantener factibles los tiempos de cálculo.</p>
 </section>
-<section id="maestría-en-explotación-de-datos-y-descubrimiento-del-conocimiento" class="level6">
-<h6 class="anchored" data-anchor-id="maestría-en-explotación-de-datos-y-descubrimiento-del-conocimiento"><svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:steelblue;overflow:visible;position:relative;"><path d="M243.4 2.6l-224 96c-14 6-21.8 21-18.7 35.8S16.8 160 32 160v8c0 13.3 10.7 24 24 24H456c13.3 0 24-10.7 24-24v-8c15.2 0 28.3-10.7 31.3-25.6s-4.8-29.9-18.7-35.8l-224-96c-8.1-3.4-17.2-3.4-25.2 0zM128 224H64V420.3c-.6 .3-1.2 .7-1.8 1.1l-48 32c-11.7 7.8-17 22.4-12.9 35.9S17.9 512 32 512H480c14.1 0 26.5-9.2 30.6-22.7s-1.1-28.1-12.9-35.9l-48-32c-.6-.4-1.2-.7-1.8-1.1V224H384V416H344V224H280V416H232V224H168V416H128V224zm128-96c-17.7 0-32-14.3-32-32s14.3-32 32-32s32 14.3 32 32s-14.3 32-32 32z"></path></svg> <a href="http://datamining.dc.uba.ar/datamining/">Maestría en Explotación de Datos y Descubrimiento del Conocimiento</a></h6>
+<section id="inspiración" class="level2">
+<h2 class="anchored" data-anchor-id="inspiración">Inspiración</h2>
+<p>Si están buscando inspiración o no están seguros de por dónde empezar, pueden mirar las siguientes páginas:</p>
+<ul>
+<li><a href="https://datasetsearch.research.google.com/">https://datasetsearch.research.google.com/</a></li>
+<li><a href="https://www.kaggle.com/datasets">https://www.kaggle.com/datasets</a></li>
+<li><a href="https://www.kaggle.com/datasets">https://github.com/rfordatascience/tidytuesday</a></li>
+<li><a href="https://www.kaggle.com/datasets">https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research</a></li>
+<li><a href="https://www.kaggle.com/datasets">https://paperswithcode.com/datasets</a></li>
+<li><a href="https://www.kaggle.com/datasets">https://www.openml.org/search?type=data&amp;sort=runs&amp;status=active</a></li>
+</ul>
+</section>
+<section id="dónde-encontrar-papers" class="level2">
+<h2 class="anchored" data-anchor-id="dónde-encontrar-papers">¿Dónde encontrar papers?</h2>
+<ul>
+<li><a href="https://scholar.google.com/">https://scholar.google.com/</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/">https://pubmed.ncbi.nlm.nih.gov/</a></li>
+<li><a href="https://ieeexplore.ieee.org/Xplore/home.jsp">https://ieeexplore.ieee.org/Xplore/home.jsp</a></li>
+</ul>
+</section>
+<section id="ejemplos-de-datasets" class="level2">
+<h2 class="anchored" data-anchor-id="ejemplos-de-datasets">Ejemplos de datasets</h2>
+<p>Algunos ejemplos específicos que pueden usar según la técnica de análisis están en el <a href="https://docs.google.com/document/d/1Cmem95cfiWSYrvYHT_4ngaJnhvN_9ax2ZaEhBkH9IDM/edit?usp=sharing">siguiente documento</a>.</p>
 
 
 </section>

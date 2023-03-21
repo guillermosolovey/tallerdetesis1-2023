@@ -14,8 +14,12 @@ website:
         text: "{{< fa home >}} Home"
       - href: cronograma.qmd
         text: "{{< fa calendar >}} Cronograma"
-      - href: programa.qmd
-        text: "{{< fa code >}} Programa"
+      - href: pautas.qmd
+        text: "{{< fa code >}} Pautas"
+      - href: datasets.qmd
+        text: "{{< fa code >}} Datasets"
+      - href: consignas.qmd
+        text: "{{< fa code >}} Consignas"
         
 
 format:

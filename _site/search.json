@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Taller de Tesis 1",
     "section": "",
-    "text": "Docentes: Guillermo Solovey, Gustavo Juantorena y Jazmín Vidal Dominguez.\nHorario: Martes 19 a 22hs.\nClases: desde el 21 de Marzo al 4 de Julio.\nAula: A confirmar.\n\n\n\n Exactas-UBA\n\n\n Maestría en Explotación de Datos y Descubrimiento del Conocimiento"
+    "text": "Docentes: Guillermo Solovey, Gustavo Juantorena y Jazmín Vidal Dominguez.\nHorario: Martes 19 a 22hs.\nClases: desde el 21 de Marzo al 4 de Julio.\nAula: 1304.\n\n\n\n Exactas-UBA\n\n\n Maestría en Explotación de Datos y Descubrimiento del Conocimiento"
   },
   {
     "objectID": "cronograma.html",
     "href": "cronograma.html",
     "title": "Cronograma",
     "section": "",
-    "text": "fecha\n      material\n      grupo\n      consigna\n      deadline\n    \n  \n  \n    21 Mar\nIntroducción a la materia\nG1+G2+G3+G4\n\n\n    28 Mar\nclase 1\nG1\nDataset, pregunta y objetivo\n11 Apr\n    4 Apr\nclase 1\nG2\nDataset, pregunta y objetivo\n18 Apr\n    11 Apr\nclase 1\nG3\nDataset, pregunta y objetivo\n25 Apr\n    18 Apr\nclase 1\nG4\nDataset, pregunta y objetivo\n2 May\n    25 Apr\nclase 2\nG1\nMetodología y EDA\n9 May\n    2 May\nclase 2\nG2\nMetodología y EDA\n16 May\n    9 May\nclase 2\nG3\nMetodología y EDA\n23 May\n    16 May\nclase 2\nG4\nMetodología y EDA\n30 May\n    23 May\nclase 3\nG1\nIntroducción y resultados\n6 Jun\n    30 May\nclase 3\nG2\nIntroducción y resultados\n13 Jun\n    6 Jun\nclase 3\nG3\nIntroducción y resultados\n20 Jun\n    13 Jun\nclase 3\nG4\nIntroducción y resultados\n27 Jun\n    20 Jun\nFeriado\n\n\n\n    27 Jun\nclase 4\nG1+G2\nDiscusión y conclusiones\n11 Jul\n    4 Jul\nclase 4\nG3+G4\nDiscusión y conclusiones\n18 Jul"
+    "text": "fecha\n      material\n      grupo\n      consigna\n      deadline\n    \n  \n  \n    21 Mar\nIntroducción a la materia\nG1+G2+G3+G4\n\n\n    28 Mar\nclase 1\nG1\nDataset, pregunta y objetivo\n11 Apr\n    4 Apr\nclase 1\nG2\nDataset, pregunta y objetivo\n18 Apr\n    11 Apr\nclase 1\nG3\nDataset, pregunta y objetivo\n25 Apr\n    18 Apr\nclase 1\nG4\nDataset, pregunta y objetivo\n2 May\n    25 Apr\nclase 2\nG1\nMetodología y EDA\n9 May\n    2 May\nclase 2\nG2\nMetodología y EDA\n16 May\n    9 May\nclase 2\nG3\nMetodología y EDA\n23 May\n    16 May\nclase 2\nG4\nMetodología y EDA\n30 May\n    23 May\nclase 3\nG1\nIntroducción y resultados\n6 Jun\n    30 May\nclase 3\nG2\nIntroducción y resultados\n13 Jun\n    6 Jun\nclase 3\nG3\nIntroducción y resultados\n20 Jun\n    13 Jun\nclase 3\nG4\nIntroducción y resultados\n27 Jun\n    20 Jun\nFeriado\n\n\n\n    27 Jun\nclase 4\nG1+G2\nDiscusión y conclusiones\n18 Jul\n    4 Jul\nclase 4\nG3+G4\nDiscusión y conclusiones\n25 Jul"
   },
   {
     "objectID": "index.html#course-materials",
@@ -96,5 +96,82 @@
     "title": "Programa",
     "section": "Trabajo final",
     "text": "Trabajo final\nLa última entrega consiste de un trabajo final…"
+  },
+  {
+    "objectID": "pautas.html",
+    "href": "pautas.html",
+    "title": "Pautas",
+    "section": "",
+    "text": "El trabajo a lo largo de este curso consiste en elegir un conjunto de datos, realizar un análisis adecuado del mismo utilizando al menos dos técnicas aprendidas durante la carrera de especialización y redactar un informe final."
+  },
+  {
+    "objectID": "pautas.html#organización",
+    "href": "pautas.html#organización",
+    "title": "Pautas",
+    "section": "Organización",
+    "text": "Organización\nEl curso está dividido en 4 grupos. Cada grupo asiste a una clase presencial por mes los días martes a las 19.30 horas. Durante las clases presenciales Guillermo Solovey y Gustavo Juantorena explicarán las pautas de los trabajos prácticos a entregar durante el curso y ayudarán a cada uno a conseguir el objetivo. El resto de la semana y para aquellos que no asistan presencial ese día, Jazmín Vidal responderá consultas de forma asincrónica. La presencialidad NO es opcional.\nLas consultas se realizan escribiendo a tallerdetesis1-2023@googlegroups.com. Pueden consultar el cronograma de asistencia por grupo acá."
+  },
+  {
+    "objectID": "pautas.html#régimen-de-aprobación",
+    "href": "pautas.html#régimen-de-aprobación",
+    "title": "Pautas",
+    "section": "Régimen de aprobación",
+    "text": "Régimen de aprobación\nLa materia tiene 4 entregas (3 entregas parciales y un trabajo final) y se aprueba con 65 puntos. La nota final de la materia se compone así:\n\nEntrega 1: 20 puntos\nEntrega 2: 20 puntos\nEntrega 3: 20 puntos\nTrabajo final: 40 puntos\n\nLas consignas para las entregas y del trabajo final se explican los días martes en la clase presencial de cada grupo. Cada entrega tiene una fecha límite que es dos semanas después de la clase. Tener en cuenta que las entregas son incrementales, esto es, que cada una depende de la anterior y culmina en el trabajo final.\nEn caso de entregar con retraso, el trabajo tendrá una puntuación menor. Los trabajos entregados hasta una semana después de la fecha límite tendrán 5 puntos menos de puntaje máximo. Los trabajos entregados con más de una semana de atraso tendrán 10 puntos menos de nota máxima.\nLas entregas se cargan en una carpeta de google drive. Hay una carpeta para cada entrega y para cada grupo. Las entregas deben enviarse en PDF, sin código adjunto y con el nombre: G1-E1-APELLIDO-NOMBRE.PDF\nPueden consultar el cronograma de entregas acá."
+  },
+  {
+    "objectID": "pautas.html#uso-de-datos",
+    "href": "pautas.html#uso-de-datos",
+    "title": "Pautas",
+    "section": "Uso de datos",
+    "text": "Uso de datos\nPueden encontrar pautas generales para la elección del dataset en este documento. En general, pueden utilizar:\n\nDatos públicos: sugerimos la utilización de uno de los datasets provistos en la siguiente lista. Si el dataset es muy popular y ya hay en internet muchos trabajos hechos, se deberá reportar cómo el trabajo a realizar difiere de ellos.\nDatos propios: si se deseara realizar las entregas y el informe final utilizando un conjunto de datos propio, se deberá contar -ANTES DE LA PRIMERA ENTREGA- con autorización para hacerlo. De lo contrario tendrán que utilizar un conjunto de datos públicos como los sugeridos en el ítem anterior.\nDatos scrapeados: datos visibles en una web no necesariamente significa que los podemos scrapear para los fines de este trabajo. Cada página tiene sus condiciones de uso de datos. Sólo se pueden scrapear los datos si está permitido hacerlo."
+  },
+  {
+    "objectID": "pautas.html#otros-recursos",
+    "href": "pautas.html#otros-recursos",
+    "title": "Pautas",
+    "section": "Otros recursos",
+    "text": "Otros recursos\nEjemplos de trabajos de años anteriores\n\nDetección de cataratas y glaucoma en imágenes de fondo de ojo. Hernán Estrin\nPatrones de uso del servicio de datos en la red de telefonía móvil de la ciudad de Milán. Horacio Gastón Arrigo"
+  },
+  {
+    "objectID": "pautas.html#preguntas-frecuentes",
+    "href": "pautas.html#preguntas-frecuentes",
+    "title": "Pautas",
+    "section": "Preguntas frecuentes",
+    "text": "Preguntas frecuentes\n\n¿Qué diferencia hay entre el trabajo de especialización y el trabajo final de esta materia?\nPoco. Si cumplen con los objetivos de esta materia y hacen todas las entregas de forma completa, van a estar a un paso del trabajo de especialización. Podrían quedar algunas cositas por pulir, pero nada que les impide entregarlo pocas semanas después de finalizada la materia.\n¿Quién evalúa el trabajo de especialización?\nEn esta materia, los docentes no evaluamos los trabajos finales de especialización pero los preparamos para entregarlo. El trabajo de especialización lo evalúan docentes del posgrado.\n¿Qué diferencia hay entre el trabajo de especialización y la tesis de maestría?\nEl trabajo de tesis de maestría requiere director/a, se espera que sea más extenso que el de especialización.\n¿Es requisito hacer el trabajo de especialización si quiero seguir con la maestría?\nNo. Se puede aprobar esta materia con todos sus requisitos y continuar hacia la maestría.\n¿Necesito tutor/director para hacer el trabajo de especialización?\nNo.\n¿En qué formato hay que escribir el trabajo final?\nEl que les resulte más cómodo. Puede ser overleaf, Rmd, google docs, Word, … pero el entregable tiene que estar en pdf."
+  },
+  {
+    "objectID": "pautas.html#chat-gpt",
+    "href": "pautas.html#chat-gpt",
+    "title": "Pautas",
+    "section": "Chat GPT",
+    "text": "Chat GPT\nLe preguntamos a Chat GPT como realizar un uso creativo del mismo a lo largo del curso y, entre otras cosas, lo que nos dijo fue:\n\n\n\n\n\n\nImportante!\n\n\n\nRecuerda que, aunque Chat GPT puede ser una herramienta útil para ayudarte en tu trabajo final de ciencia de datos, es importante que tú mismo/a te asegures de la calidad de la información y de los resultados obtenidos. ¡Buena suerte en tu proyecto!"
+  },
+  {
+    "objectID": "datasets.html",
+    "href": "datasets.html",
+    "title": "Datasets",
+    "section": "",
+    "text": "Como sugerencia general, elijan un dataset sobre un tema que les interese o sobre el que están trabajando actualmente. Como algunos conjuntos de datos se han usado en exceso para estos objetivos particulares, tenga en cuenta que los siguientes están prohibidos en este trabajo (se pueden agregar más a esta lista, así que asegúrense de revisarla regularmente):\n\ntitanic\nmtcars\niris\nMNIST\nCIFAR-10\n\nLo mejor es usar un conjunto de datos para el cual no haya un análisis listo en Internet, pero si eligen un conjunto de datos que ya se usó en algún estudio de caso disponible online, proporcionen el enlace a estudios anteriores e informen cómo sus análisis difieren de esos (por ejemplo, si alguien ha realizado un análisis no bayesiano y ustedes realizan el análisis bayesiano completo).\nSegún el modelo y la estructura de los datos, un buen dataset tendría más de 100 observaciones pero menos de 1 millón. Si conocen un dataset interesante pero muy pesado, pueden usar un subconjunto más pequeño de los datos para mantener factibles los tiempos de cálculo."
+  },
+  {
+    "objectID": "datasets.html#inspiración",
+    "href": "datasets.html#inspiración",
+    "title": "Datasets",
+    "section": "Inspiración",
+    "text": "Inspiración\nSi están buscando inspiración o no están seguros de por dónde empezar, pueden mirar las siguientes páginas:\n\nhttps://datasetsearch.research.google.com/\nhttps://www.kaggle.com/datasets\nhttps://github.com/rfordatascience/tidytuesday\nhttps://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research\nhttps://paperswithcode.com/datasets\nhttps://www.openml.org/search?type=data&sort=runs&status=active"
+  },
+  {
+    "objectID": "datasets.html#dónde-encontrar-papers",
+    "href": "datasets.html#dónde-encontrar-papers",
+    "title": "Datasets",
+    "section": "¿Dónde encontrar papers?",
+    "text": "¿Dónde encontrar papers?\n\nhttps://scholar.google.com/\nhttps://pubmed.ncbi.nlm.nih.gov/\nhttps://ieeexplore.ieee.org/Xplore/home.jsp"
+  },
+  {
+    "objectID": "datasets.html#ejemplos-de-datasets",
+    "href": "datasets.html#ejemplos-de-datasets",
+    "title": "Datasets",
+    "section": "Ejemplos de datasets",
+    "text": "Ejemplos de datasets\nAlgunos ejemplos específicos que pueden usar según la técnica de análisis están en el siguiente documento."
   }
 ]

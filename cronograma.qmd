@@ -29,22 +29,22 @@ d %>%
   sub_missing(columns = deadline, missing_text = "") %>% 
   gt_highlight_rows(
      rows = 2:5,
-     fill = "#f7f7f7",
+     fill = "#eff3ff",
      bold_target_only = TRUE
    ) %>% 
   gt_highlight_rows(
      rows = 6:9,
-     fill = "#d9d9d9",
+     fill = "#bdd7e7",
      bold_target_only = TRUE
    ) %>% 
   gt_highlight_rows(
      rows = 10:13,
-     fill = "#bdbdbd",
+     fill = "#6baed6",
      bold_target_only = TRUE
    ) %>% 
   gt_highlight_rows(
      rows = 15:16,
-     fill = "#969696",
+     fill = "#2171b5",
      bold_target_only = TRUE
    )
 ```
